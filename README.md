@@ -8,6 +8,17 @@
 
 ## 基因 Genomics
 
+#### 泛癌症分析  Pan-cancer analysis
+- [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6) 
+Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https://doi.org/10.1038/s41586-020-1969-6
+
+- []
+
+#### RNA-Seq
+- [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
+[PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq这十年](https://cloud.tencent.com/developer/article/1483493)
+
+
 #### 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
 Kundaje, A., Meuleman, W., Ernst, J. et al. Nature 518, 317–330 (2015).
