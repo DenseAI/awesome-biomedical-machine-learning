@@ -27,21 +27,29 @@ Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https:
 - [Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden](https://link.springer.com/article/10.1186/s13073-017-0424-2)
 Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
 
-- [Circulating tumor DNA 5-hydroxymethylcytosine as a novel diagnostic biomarker for esophageal cancer](https://www.nature.com/articles/s41422-018-0014-x)
-Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.org/10.1038/s41422-018-0014-x
+    ##### 2.2.1 癌症预测 Cancer Prognosis prediction
+    - [Circulating tumor DNA 5-hydroxymethylcytosine as a novel diagnostic biomarker for esophageal cancer](https://www.nature.com/articles/s41422-018-0014-x)
+    Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.org/10.1038/s41422-018-0014-x
+    - [Integrating multi-omics data with deep learning for predicting cancer prognosis](https://www.biorxiv.org/content/10.1101/807214v1.full)
+    Hua Chai, Xiang Zhou, Zifeng Cui, Jiahua Rao, Zheng Hu, Yutong Lu, Huiying Zhao, Yuedong Yang. bioRxiv 807214; doi: https://doi.org/10.1101/807214
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
 [PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq这十年](https://cloud.tencent.com/developer/article/1483493)
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
+- [Imputing Single-cell RNA-seq data by combining Graph Convolution and Autoencoder Neural Networks](https://www.biorxiv.org/content/10.1101/2020.02.05.935296v1) Jiahua Rao, Xiang Zhou, Yutong Lu, Huiying Zhao, Yuedong Yang
+bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
 	- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
+	- [scVAE: Variational auto-encoders for single-cell gene expression data](https://github.com/scvae/scvae)
+	- [Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data](https://github.com/epigen/KPNN)
 	
-	##### 2.3.2 Data set
+	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
-	- [The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
+	- [HuRI: The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
+
 #### 2.4 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
 Kundaje, A., Meuleman, W., Ernst, J. et al. Nature 518, 317–330 (2015).
