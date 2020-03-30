@@ -35,10 +35,13 @@ Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.or
 [PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq这十年](https://cloud.tencent.com/developer/article/1483493)
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 
-##### 2.3.1 Single-Cell Software
-- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
-- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
-
+	##### 2.3.1 Single-Cell Software
+	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
+	- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
+	
+	##### 2.3.2 Data set
+	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
+	- [The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
 #### 2.4 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
 Kundaje, A., Meuleman, W., Ernst, J. et al. Nature 518, 317–330 (2015).
