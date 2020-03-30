@@ -5,10 +5,10 @@
 ## 目录
 - [1. 生物 Biology](https://github.com/DenseAI/awesome-medical-machine-learning#1-生物-biology)
 - [2. 基因 Genomics](https://github.com/DenseAI/awesome-medical-machine-learning#2-基因-genomics)
-	- [2.1 基因序列分析与预测 Gene sequence analysis and prediction](https://github.com/DenseAI/awesome-deep-learning#21-综述)
-	- [2.2 泛癌症分析  Pan-cancer analysis](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
-	- [2.3 单细胞 Single-Cell](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
-	- [2.4 表观基因组学 Epigenomes](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
+	- [2.1 基因序列分析与预测 Gene sequence analysis and prediction](https://github.com/DenseAI/awesome-medical-machine-learning#21-基因序列分析与预测-gene-sequence-analysis-and-prediction)
+	- [2.2 泛癌症分析  Pan-cancer analysis](https://github.com/DenseAI/awesome-medical-machine-learning#22-泛癌症分析--pan-cancer-analysis)
+	- [2.3 单细胞 Single-Cell](https://github.com/DenseAI/awesome-medical-machine-learning#23-单细胞-single-cell)
+	- [2.4 表观基因组学 Epigenomes](https://github.com/DenseAI/awesome-medical-machine-learning#24-表观基因组学-epigenomes)
 	
 - [3 医学 Medicine](https://github.com/DenseAI/awesome-medical-machine-learning#3-医学-medicine)
 
