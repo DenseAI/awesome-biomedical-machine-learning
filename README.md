@@ -41,12 +41,15 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
 bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
 - [Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling](https://www.nature.com/articles/s41592-019-0529-1)
 Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (2019). https://doi.org/10.1038/s41592-019-0529-1
+- [DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6)
+Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
 	- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
 	- [scVAE: Variational auto-encoders for single-cell gene expression data](https://github.com/scvae/scvae)
-	- [Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data](https://github.com/epigen/KPNN)
+	- [KPNN: Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data](https://github.com/epigen/KPNN)
+	- [An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
