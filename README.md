@@ -3,13 +3,20 @@
 
 收集生物、基因、医学人工智能相关资料
 ## 目录
-- [1. 生物 Biology](https://github.com/DenseAI/awesome-medical-machine-learning#1-深度学习基础知识)
+- [1. 生物 Biology](https://github.com/DenseAI/awesome-medical-machine-learning#1-生物-biology)
+- [2. 基因 Genomics](https://github.com/DenseAI/awesome-medical-machine-learning#2-基因-genomics)
+	- [2.1 基因序列分析与预测 Gene sequence analysis and prediction](https://github.com/DenseAI/awesome-deep-learning#21-综述)
+	- [2.2 泛癌症分析  Pan-cancer analysis](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
+	- [2.3 单细胞 Single-Cell](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
+	- [2.4 表观基因组学 Epigenomes](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
+	
+- [3 医学 Medicine](https://github.com/DenseAI/awesome-medical-machine-learning#3-医学-medicine)
 
 ## 1. 生物 Biology
 
 ## 2. 基因 Genomics
 
-#### 2.1 基因序列分析与预测
+#### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
 Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
@@ -23,9 +30,10 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
 - [Circulating tumor DNA 5-hydroxymethylcytosine as a novel diagnostic biomarker for esophageal cancer](https://www.nature.com/articles/s41422-018-0014-x)
 Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.org/10.1038/s41422-018-0014-x
 
-#### 2.3 RNA-Seq
+#### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
 [PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq这十年](https://cloud.tencent.com/developer/article/1483493)
+
 
 
 #### 2.4 表观基因组学 Epigenomes
