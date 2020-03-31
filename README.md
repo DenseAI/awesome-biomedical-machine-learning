@@ -58,6 +58,7 @@ Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). ht
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
 	- [DiffVAE: Unsupervised generative and graph neural methods for modelling cell differentiation](https://github.com/ioanabica/DiffVAE)
 	- [Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
+	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
