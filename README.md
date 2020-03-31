@@ -48,6 +48,8 @@ Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (
 Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 - [Unsupervised generative and graph representation learning for modelling cell differentiation](https://www.biorxiv.org/content/10.1101/801605v1.full) Ioana Bica, Helena Andrés-Terré, Ana Cvejic, Pietro Liò. bioRxiv 801605; doi: https://doi.org/10.1101/801605
+- [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z) Abdelaal, T., Michielsen, L., Cats, D. et al. Genome Biol 20, 194 (2019). https://doi.org/10.1186/s13059-019-1795-z
+github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
