@@ -62,6 +62,10 @@ Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). ht
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
 	- [HuRI: The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
+	
+	##### 2.3.3 Interpretation of Model Predictions
+	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
+	- [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
 
 #### 2.4 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
