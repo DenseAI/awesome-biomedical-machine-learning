@@ -18,14 +18,19 @@
 
 - [Helmholtz Zentrum München, German Research Center for Environmental Health, Theis lab](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/publications/index.html)
 - [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) Eraslan, G., Avsec, Ž., Gagneur, J. et al. Nat Rev Genet 20, 389–403 (2019). https://doi.org/10.1038/s41576-019-0122-6
+
 #### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
 Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
 - [DeepWAS: Multivariate genotype-phenotype associations by directly integrating regulatory information using deep learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007616) Arloth J, Eraslan G, Andlauer T F M, et al. PLOS Computational Biology, 2020, 16(2): e1007616.
 
-    ##### 2.2.1 Software
+    ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
+    
+    ##### 2.1.2 Interpretation of Model Predictions
+	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
+	- [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
     
 #### 2.2 泛癌症分析  Pan-cancer analysis
 - [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6) 
@@ -63,6 +68,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/530378v1.full) Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. bioRxiv 530378; doi: https://doi.org/10.1101/530378
 - [Using neural networks for reducing the dimensions of single-cell RNA-Seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737331/)Lin C, Jain S, Kim H, et al. Nucleic acids research, 2017, 45(17): e156-e156.
 - [Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
+- [DigitalDLSorter: Deep-Learning on scRNA-Seq to deconvolute gene expression data](https://www.frontiersin.org/articles/10.3389/fgene.2019.00978/full) Torroja C, Sanchez-Cabo F. Frontiers in genetics, 2019, 10: 978.
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
@@ -78,14 +84,14 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [CNNC: covolutional neural network based coexpression analysis](https://github.com/xiaoyeye/CNNC)
 	- [deepimpute: An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
 	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
+	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
+	- [digitalDLSorter: A pipeline to generate a Deep Nerual Network cell type deconvolution model for bulk RNASeq samples from single cell experiment data](https://github.com/cartof/digitalDLSorter)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
 	- [HuRI: The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
 	
-	##### 2.3.3 Interpretation of Model Predictions
-	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
-	- [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
+	
 
 #### 2.4 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
