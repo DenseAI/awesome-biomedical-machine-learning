@@ -16,6 +16,8 @@
 
 ## 2. 基因 Genomics
 
+- [Helmholtz Zentrum München, German Research Center for Environmental Health, Theis lab](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/publications/index.html)
+
 #### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
@@ -60,6 +62,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6) Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
 - [Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/530378v1.full) Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. bioRxiv 530378; doi: https://doi.org/10.1101/530378
 - [Using neural networks for reducing the dimensions of single-cell RNA-Seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737331/)Lin C, Jain S, Kim H, et al. Nucleic acids research, 2017, 45(17): e156-e156.
+- [Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
@@ -74,6 +77,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [scScope](https://github.com/AltschulerWu-Lab/scScope)
 	- [CNNC: covolutional neural network based coexpression analysis](https://github.com/xiaoyeye/CNNC)
 	- [deepimpute: An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
+	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
