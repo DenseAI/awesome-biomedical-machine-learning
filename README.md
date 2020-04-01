@@ -20,7 +20,11 @@
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
 Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
+- [DeepWAS: Multivariate genotype-phenotype associations by directly integrating regulatory information using deep learning](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007616) Arloth J, Eraslan G, Andlauer T F M, et al. PLOS Computational Biology, 2020, 16(2): e1007616.
 
+    ##### 2.2.1 Software
+    - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
+    
 #### 2.2 泛癌症分析  Pan-cancer analysis
 - [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6) 
 Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https://doi.org/10.1038/s41586-020-1969-6
@@ -53,6 +57,9 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774994) Deng Y, Bao F, Dai Q, et al. Nature methods, 2019, 16(4): 311-314.
 - [Deep learning for inferring gene relationships from single-cell expression data](https://www.biorxiv.org/content/10.1101/365007v2.full) Yuan Y, Bar-Joseph Z.  Proceedings of the National Academy of Sciences, 2019, 116(52): 27151-27158.
 - [Emerging deep learning methods for single-cell RNA-seq data analysis](https://link.springer.com/article/10.1007/s40484-019-0189-2) Zheng, J., Wang, K. Quant Biol 7, 247–254 (2019). https://doi.org/10.1007/s40484-019-0189-2
+- [DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6) Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
+- [Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/530378v1.full) Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. bioRxiv 530378; doi: https://doi.org/10.1101/530378
+- [Using neural networks for reducing the dimensions of single-cell RNA-Seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737331/)Lin C, Jain S, Kim H, et al. Nucleic acids research, 2017, 45(17): e156-e156.
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
@@ -66,6 +73,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 	- [scScope](https://github.com/AltschulerWu-Lab/scScope)
 	- [CNNC: covolutional neural network based coexpression analysis](https://github.com/xiaoyeye/CNNC)
+	- [deepimpute: An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
