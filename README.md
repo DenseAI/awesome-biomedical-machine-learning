@@ -50,6 +50,7 @@ Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). ht
 - [Unsupervised generative and graph representation learning for modelling cell differentiation](https://www.biorxiv.org/content/10.1101/801605v1.full) Ioana Bica, Helena Andrés-Terré, Ana Cvejic, Pietro Liò. bioRxiv 801605; doi: https://doi.org/10.1101/801605
 - [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z) Abdelaal, T., Michielsen, L., Cats, D. et al. Genome Biol 20, 194 (2019). https://doi.org/10.1186/s13059-019-1795-z
 github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
+- [Scalable analysis of cell-type composition from single-cell transcriptomics using deep recurrent learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6774994) Deng Y, Bao F, Dai Q, et al. Nature methods, 2019, 16(4): 311-314.
 
 	##### 2.3.1 Single-Cell Software
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
@@ -61,6 +62,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [DiffVAE: Unsupervised generative and graph neural methods for modelling cell differentiation](https://github.com/ioanabica/DiffVAE)
 	- [Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+	- [scScope](https://github.com/AltschulerWu-Lab/scScope)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
