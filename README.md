@@ -46,7 +46,7 @@ Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https:
 - [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)Akdemir, K.C., Le, V.T., Chandran, S. et al.  Nat Genet 52, 294–305 (2020). https://doi.org/10.1038/s41588-019-0564-y
 - [A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns](https://www.nature.com/articles/s41467-019-13825-8) Jiao, W., Atwal, G., Polak, P. et al.  Nat Commun 11, 728 (2020). https://doi.org/10.1038/s41467-019-13825-8
 - [Deep learning based tumor type classification using gene expression data](https://dl.acm.org/doi/10.1145/3233547.3233588) Lyu B, Haque A. //Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
-
+- [ Translating cancer genomics into precision medicine with artificial intelligence: applications, challenges and future perspectives](https://link.springer.com/article/10.1007/s00439-019-01970-5) Xu J, Yang P, Xue S, et al. Human genetics, 2019, 138(2): 109-124.
 - [Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden](https://link.springer.com/article/10.1186/s13073-017-0424-2)
 Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     ##### 2.2.1 癌症预测 Cancer Prognosis prediction
