@@ -54,6 +54,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.org/10.1038/s41422-018-0014-x
     - [Integrating multi-omics data with deep learning for predicting cancer prognosis](https://www.biorxiv.org/content/10.1101/807214v1.full)
     Hua Chai, Xiang Zhou, Zifeng Cui, Jiahua Rao, Zheng Hu, Yutong Lu, Huiying Zhao, Yuedong Yang. bioRxiv 807214; doi: https://doi.org/10.1101/807214
+    - [Cancer classification of single-cell gene expression data by neural network](https://academic.oup.com/bioinformatics/article-abstract/36/5/1360/5585747) Kim B H, Yu K, Lee P C W.  Bioinformatics, 2020, 36(5): 1360-1366.
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
