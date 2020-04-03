@@ -45,7 +45,6 @@ Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https:
 - [Comprehensive molecular characterization of mitochondrial genomes in human cancers](https://www.nature.com/articles/s41588-019-0557-x) Yuan, Y., Ju, Y.S., Kim, Y. et al. Nat Genet 52, 342–352 (2020). https://doi.org/10.1038/s41588-019-0557-x
 - [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)Akdemir, K.C., Le, V.T., Chandran, S. et al.  Nat Genet 52, 294–305 (2020). https://doi.org/10.1038/s41588-019-0564-y
 - [A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns](https://www.nature.com/articles/s41467-019-13825-8) Jiao, W., Atwal, G., Polak, P. et al.  Nat Commun 11, 728 (2020). https://doi.org/10.1038/s41467-019-13825-8
-- [Deep learning based tumor type classification using gene expression data](https://dl.acm.org/doi/10.1145/3233547.3233588) Lyu B, Haque A. //Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
 - [Translating cancer genomics into precision medicine with artificial intelligence: applications, challenges and future perspectives](https://link.springer.com/article/10.1007/s00439-019-01970-5) Xu J, Yang P, Xue S, et al. Human genetics, 2019, 138(2): 109-124.
 - [Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden](https://link.springer.com/article/10.1186/s13073-017-0424-2)
 Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
@@ -55,6 +54,8 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Integrating multi-omics data with deep learning for predicting cancer prognosis](https://www.biorxiv.org/content/10.1101/807214v1.full)
     Hua Chai, Xiang Zhou, Zifeng Cui, Jiahua Rao, Zheng Hu, Yutong Lu, Huiying Zhao, Yuedong Yang. bioRxiv 807214; doi: https://doi.org/10.1101/807214
     - [Cancer classification of single-cell gene expression data by neural network](https://academic.oup.com/bioinformatics/article-abstract/36/5/1360/5585747) Kim B H, Yu K, Lee P C W.  Bioinformatics, 2020, 36(5): 1360-1366.
+    - [Deep learning based tumor type classification using gene expression data](https://dl.acm.org/doi/10.1145/3233547.3233588) Lyu B, Haque A. //Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
+
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
