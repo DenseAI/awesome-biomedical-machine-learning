@@ -29,6 +29,7 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
     ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
     - [Graph attention networks](https://github.com/PetarV-/GAT) Veličković P, Cucurull G, Casanova A, et al. . arXiv preprint arXiv:1710.10903, 2017.
+    - [BioBombe: Sequentially compressed gene expression features enhances biological signatures](https://github.com/greenelab/BioBombe)
     
     ##### 2.1.2 Interpretation of Model Predictions
 	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
