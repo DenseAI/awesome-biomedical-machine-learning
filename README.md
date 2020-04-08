@@ -60,10 +60,19 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.sciencedirect.com/science/article/pii/S0923753420360580) M.C.Liu1, G.R.Oxnard, E.A.Klein, C.Swanton, M.V.Seiden, https://doi.org/10.1016/j.annonc.2020.02.011
     - [Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://www.nature.com/articles/s41586-020-2095-1) Poore, G.D., Kopylova, E., Zhu, Q. et al.  Nature 579, 567–574 (2020). https://doi.org/10.1038/s41586-020-2095-1
     - [Identification of 12 cancer types through genome deep learning](https://www.nature.com/articles/s41598-019-53989-3) Sun, Y., Zhu, S., Ma, K. et al. Sci Rep 9, 17256 (2019). https://doi.org/10.1038/s41598-019-53989-3
-    
+    - [DeepMicro: deep representation learning for disease prediction based on microbiome data](https://www.nature.com/articles/s41598-020-63159-5) Oh, M., Zhang, L. Sci Rep 10, 6026 (2020). https://doi.org/10.1038/s41598-020-63159-5
+    - [Overall survival prediction of non-small cell lung cancer by integrating microarray and clinical data with deep learning](https://www.nature.com/articles/s41598-020-61588-w) Lai, Y., Chen, W., Hsu, T. et al. Sci Rep 10, 4679 (2020). https://doi.org/10.1038/s41598-020-61588-w
+    - [A deep learning approach to automate refinement of somatic variant calling from cancer sequencing data](https://www.nature.com/articles/s41588-018-0257-y) Ainscough, B.J., Barnell, E.K., Ronning, P. et al. Nat Genet 50, 1735–1743 (2018). https://doi.org/10.1038/s41588-018-0257-y
+    - [Classification models for Invasive Ductal Carcinoma Progression, based on gene expression data-trained supervised machine learning](https://www.nature.com/articles/s41598-020-60740-w) Roy, S., Kumar, R., Mittal, V. et al. Sci Rep 10, 4113 (2020). https://doi.org/10.1038/s41598-020-60740-w
+    - [Integrating multi-platform genomic datasets for kidney renal clear cell carcinoma subtyping using stacked denoising autoencoders](https://www.nature.com/articles/s41598-019-53048-x) Gu, T., Zhao, X. Sci Rep 9, 16668 (2019). https://doi.org/10.1038/s41598-019-53048-x
+    - [OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine](https://www.nature.com/articles/s41598-020-62279-2)López-Cortés, A., Paz-y-Miño, C., Guerrero, S. et al.  Sci Rep 10, 5285 (2020). https://doi.org/10.1038/s41598-020-62279-2
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
+    - [DeepMicro: Deep representation learning for disease prediction based on microbiome data](https://github.com/minoh0201/DeepMicro)
+    - [overall_survival_nsclc: bimodal DNN for NSCLC patient overall survival prediction](https://github.com/idssplab/overall_survival_nsclc) 
+    - [DeepSVR](https://github.com/griffithlab/DeepSVR)
+    - [cancer_subtyping](https://github.com/tjgu/cancer_subtyping)
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
