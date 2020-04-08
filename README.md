@@ -59,6 +59,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Deep learning based tumor type classification using gene expression data](https://dl.acm.org/doi/10.1145/3233547.3233588) Lyu B, Haque A. //Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
     - [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.sciencedirect.com/science/article/pii/S0923753420360580) M.C.Liu1, G.R.Oxnard, E.A.Klein, C.Swanton, M.V.Seiden, https://doi.org/10.1016/j.annonc.2020.02.011
     - [Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://www.nature.com/articles/s41586-020-2095-1) Poore, G.D., Kopylova, E., Zhu, Q. et al.  Nature 579, 567–574 (2020). https://doi.org/10.1038/s41586-020-2095-1
+    - [Identification of 12 cancer types through genome deep learning](https://www.nature.com/articles/s41598-019-53989-3) Sun, Y., Zhu, S., Ma, K. et al. Sci Rep 9, 17256 (2019). https://doi.org/10.1038/s41598-019-53989-3
     
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
