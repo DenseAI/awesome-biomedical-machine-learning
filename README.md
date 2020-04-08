@@ -58,12 +58,18 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Cancer classification of single-cell gene expression data by neural network](https://academic.oup.com/bioinformatics/article-abstract/36/5/1360/5585747) Kim B H, Yu K, Lee P C W.  Bioinformatics, 2020, 36(5): 1360-1366.
     - [Deep learning based tumor type classification using gene expression data](https://dl.acm.org/doi/10.1145/3233547.3233588) Lyu B, Haque A. //Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
     - [Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA](https://www.sciencedirect.com/science/article/pii/S0923753420360580) M.C.Liu1, G.R.Oxnard, E.A.Klein, C.Swanton, M.V.Seiden, https://doi.org/10.1016/j.annonc.2020.02.011
+    - [Microbiome analyses of blood and tissues suggest cancer diagnostic approach](https://www.nature.com/articles/s41586-020-2095-1) Poore, G.D., Kopylova, E., Zhu, Q. et al.  Nature 579, 567–574 (2020). https://doi.org/10.1038/s41586-020-2095-1
+    
+    ##### 2.2.2 Software 
+    - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
+    - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
 [PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq 这十年](https://cloud.tencent.com/developer/article/1483493)
 - [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) Luecken M D, Theis F J. Molecular systems biology, 2019, 15(6). 
 中文：[重磅综述：三万字长文读懂单细胞RNA测序分析的最佳实践教程 （原理、代码和评述）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491322&idx=1&sn=0556e7e8723cac79cc32a2b99e7cadc6&chksm=ec0ddb70db7a5266a4826aa91f26e62c9b6c3fff6711ac646ef581511eaacb2a56df2f59d092&scene=21#wechat_redirect)
+- [Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 - [Imputing Single-cell RNA-seq data by combining Graph Convolution and Autoencoder Neural Networks](https://www.biorxiv.org/content/10.1101/2020.02.05.935296v1) Jiahua Rao, Xiang Zhou, Yutong Lu, Huiying Zhao, Yuedong Yang
 bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
@@ -71,7 +77,6 @@ bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
 Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (2019). https://doi.org/10.1038/s41592-019-0529-1
 - [DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6)
 Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
-- [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 - [Unsupervised generative and graph representation learning for modelling cell differentiation](https://www.biorxiv.org/content/10.1101/801605v1.full) Ioana Bica, Helena Andrés-Terré, Ana Cvejic, Pietro Liò. bioRxiv 801605; doi: https://doi.org/10.1101/801605
 - [A comparison of automatic cell identification methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1795-z) Abdelaal, T., Michielsen, L., Cats, D. et al. Genome Biol 20, 194 (2019). https://doi.org/10.1186/s13059-019-1795-z
 github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
@@ -81,25 +86,24 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [DeepImpute: an accurate, fast, and scalable deep neural network method to impute single-cell RNA-seq data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1837-6) Arisdakessian, C., Poirion, O., Yunits, B. et al. Genome Biol 20, 211 (2019). https://doi.org/10.1186/s13059-019-1837-6
 - [Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/530378v1.full) Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. bioRxiv 530378; doi: https://doi.org/10.1101/530378
 - [Using neural networks for reducing the dimensions of single-cell RNA-Seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737331/)Lin C, Jain S, Kim H, et al. Nucleic acids research, 2017, 45(17): e156-e156.
-- [Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
 - [DigitalDLSorter: Deep-Learning on scRNA-Seq to deconvolute gene expression data](https://www.frontiersin.org/articles/10.3389/fgene.2019.00978/full) Torroja C, Sanchez-Cabo F. Frontiers in genetics, 2019, 10: 978.
 
 	##### 2.3.1 Single-Cell Software
-	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
+	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
+	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
 	- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
+	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
 	- [scVAE: Variational auto-encoders for single-cell gene expression data](https://github.com/scvae/scvae)
 	- [KPNN: Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data](https://github.com/epigen/KPNN)
 	- [deepimpute: An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
-	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
 	- [DiffVAE: Unsupervised generative and graph neural methods for modelling cell differentiation](https://github.com/ioanabica/DiffVAE)
-	- [Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
-	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 	- [scScope](https://github.com/AltschulerWu-Lab/scScope)
 	- [CNNC: covolutional neural network based coexpression analysis](https://github.com/xiaoyeye/CNNC)
 	- [deepimpute: An accurate and efficient deep learning method for single-cell RNA-seq data imputation](https://github.com/lanagarmire/DeepImpute)
-	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
-	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	- [digitalDLSorter: A pipeline to generate a Deep Nerual Network cell type deconvolution model for bulk RNASeq samples from single cell experiment data](https://github.com/cartof/digitalDLSorter)
+	- [Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
+	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
