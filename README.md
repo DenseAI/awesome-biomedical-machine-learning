@@ -75,6 +75,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [overall_survival_nsclc: bimodal DNN for NSCLC patient overall survival prediction](https://github.com/idssplab/overall_survival_nsclc) 
     - [DeepSVR](https://github.com/griffithlab/DeepSVR)
     - [cancer_subtyping](https://github.com/tjgu/cancer_subtyping)
+    
     ##### 2.2.3 Data
     - [CancerSEA: a cancer single-cell state atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324047/) Yuan H, Yan M, Zhang G, et al.  Nucleic acids research, 2019, 47(D1): D900-D908.
     - [The Medical Genome Reference Bank contains whole genome and phenotype data of 2570 healthy elderly](https://www.nature.com/articles/s41467-019-14079-0) Pinese, M., Lacaze, P., Rath, E.M. et al.  Nat Commun 11, 435 (2020). https://doi.org/10.1038/s41467-019-14079-0
