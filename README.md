@@ -19,6 +19,7 @@
 - [Helmholtz Zentrum München, German Research Center for Environmental Health, Theis lab](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/publications/index.html)
 - [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) Eraslan, G., Avsec, Ž., Gagneur, J. et al. Nat Rev Genet 20, 389–403 (2019). https://doi.org/10.1038/s41576-019-0122-6
 - [Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
+
 #### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
@@ -97,7 +98,10 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Deep learning enables accurate clustering and batch effect removal in single-cell RNA-seq analysis](https://www.biorxiv.org/content/10.1101/530378v1.full) Xiangjie Li, Yafei Lyu, Jihwan Park, Jingxiao Zhang, Dwight Stambolian, Katalin Susztak, Gang Hu, Mingyao Li. bioRxiv 530378; doi: https://doi.org/10.1101/530378
 - [Using neural networks for reducing the dimensions of single-cell RNA-Seq data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5737331/)Lin C, Jain S, Kim H, et al. Nucleic acids research, 2017, 45(17): e156-e156.
 - [DigitalDLSorter: Deep-Learning on scRNA-Seq to deconvolute gene expression data](https://www.frontiersin.org/articles/10.3389/fgene.2019.00978/full) Torroja C, Sanchez-Cabo F. Frontiers in genetics, 2019, 10: 978.
-
+- [Tools for the analysis of high-dimensional single-cell RNA sequencing data. Nat Rev Nephrol (2020)](https://www.nature.com/articles/s41581-020-0262-0) Wu, Y., Zhang, K. https://doi.org/10.1038/s41581-020-0262-0
+- [Using transfer learning from prior reference knowledge to improve the clustering of single-cell RNA-Seq data](https://www.nature.com/articles/s41598-019-56911-z) Mieth, B., Hockley, J.R.F., Görnitz, N. et al.  Sci Rep 9, 20353 (2019). https://doi.org/10.1038/s41598-019-56911-z
+- [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al. Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
+- [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
 	##### 2.3.1 Single-Cell Software
 	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
@@ -114,6 +118,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
+	- [scHCL: A tool defines cell types in human based on single-cell digital expression](https://github.com/ggjlab/scHCL)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
