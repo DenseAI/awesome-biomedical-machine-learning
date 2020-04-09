@@ -67,6 +67,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Classification models for Invasive Ductal Carcinoma Progression, based on gene expression data-trained supervised machine learning](https://www.nature.com/articles/s41598-020-60740-w) Roy, S., Kumar, R., Mittal, V. et al. Sci Rep 10, 4113 (2020). https://doi.org/10.1038/s41598-020-60740-w
     - [Integrating multi-platform genomic datasets for kidney renal clear cell carcinoma subtyping using stacked denoising autoencoders](https://www.nature.com/articles/s41598-019-53048-x) Gu, T., Zhao, X. Sci Rep 9, 16668 (2019). https://doi.org/10.1038/s41598-019-53048-x
     - [OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine](https://www.nature.com/articles/s41598-020-62279-2)López-Cortés, A., Paz-y-Miño, C., Guerrero, S. et al.  Sci Rep 10, 5285 (2020). https://doi.org/10.1038/s41598-020-62279-2
+    - [A community effort to create standards for evaluating tumor subclonal reconstruction](https://www.nature.com/articles/s41587-019-0364-z) Salcedo, A., Tarabichi, M., Espiritu, S.M.G. et al.  Nat Biotechnol 38, 97–107 (2020). https://doi.org/10.1038/s41587-019-0364-z
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -74,6 +75,9 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [overall_survival_nsclc: bimodal DNN for NSCLC patient overall survival prediction](https://github.com/idssplab/overall_survival_nsclc) 
     - [DeepSVR](https://github.com/griffithlab/DeepSVR)
     - [cancer_subtyping](https://github.com/tjgu/cancer_subtyping)
+    ##### 2.2.3 Data
+    - [CancerSEA: a cancer single-cell state atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324047/) Yuan H, Yan M, Zhang G, et al.  Nucleic acids research, 2019, 47(D1): D900-D908.
+    - [The Medical Genome Reference Bank contains whole genome and phenotype data of 2570 healthy elderly](https://www.nature.com/articles/s41467-019-14079-0) Pinese, M., Lacaze, P., Rath, E.M. et al.  Nat Commun 11, 435 (2020). https://doi.org/10.1038/s41467-019-14079-0
 
 #### 2.3 单细胞 Single-Cell
 - [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
