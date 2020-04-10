@@ -110,6 +110,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Using transfer learning from prior reference knowledge to improve the clustering of single-cell RNA-Seq data](https://www.nature.com/articles/s41598-019-56911-z) Mieth, B., Hockley, J.R.F., Görnitz, N. et al.  Sci Rep 9, 20353 (2019). https://doi.org/10.1038/s41598-019-56911-z
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al. Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 - [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
+- [Reconstruction of Cell-type-Specific Interactomes at Single-Cell Resolution](https://www.sciencedirect.com/science/article/pii/S2405471219303837) Mohammadi S, Davila-Velderrain J, Kellis M. Cell Systems, 2019, 9(6): 559-568. e4.
 	##### 2.3.1 Single-Cell Software
 	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
@@ -127,6 +128,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	- [scHCL: A tool defines cell types in human based on single-cell digital expression](https://github.com/ggjlab/scHCL)
+	- [SCINET: Single-Cell Imputation and NETwork inference](https://github.com/shmohammadi86/SCINET)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
@@ -150,8 +152,11 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
 - [Machine learning SNP based prediction for precision medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6445847/) Ho D S W, Schierding W, Wake M, et al. Frontiers in Genetics, 2019, 10.
 - [Analysis of polygenic risk score usage and performance in diverse human populations](https://www.nature.com/articles/s41467-019-11112-0) Duncan, L., Shen, H., Gelaye, B. et al.  Nat Commun 10, 3328 (2019). https://doi.org/10.1038/s41467-019-11112-0
 - [Polygenic and clinical risk scores and their impact on age at onset and prediction of cardiometabolic diseases and common cancers](https://www.nature.com/articles/s41591-020-0800-0) Mars, N., Koskela, J.T., Ripatti, P. et al.  Nat Med (2020). https://doi.org/10.1038/s41591-020-0800-0
+- [The personal and clinical utility of polygenic risk scores](https://www.nature.com/articles/s41576-018-0018-x) orkamani, A., Wineinger, N.E. & Topol, E.J. Nat Rev Genet 19, 581–590 (2018). https://doi.org/10.1038/s41576-018-0018-x
     ##### 2.5.1 Software
     - [GraBLD: an R based software package that makes polygenic traits prediction using gradient boosted and LD adjusted gene score weights](https://github.com/GMELab/GraBLD)
+    - [ldpred: a Python based software package that adjusts GWAS summary statistics for the effects of linkage disequilibrium (LD)](https://github.com/bvilhjal/ldpred)
+    - [AnnoPred: Genetic risk prediction integrating LD and functional annotations](https://github.com/yiminghu/AnnoPred)
     
 
 
