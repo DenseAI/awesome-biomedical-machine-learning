@@ -35,6 +35,9 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
     ##### 2.1.2 Interpretation of Model Predictions
 	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
 	- [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
+	
+	##### 2.1.3 Data
+	- [T2DKP Datasets](http://www.kp4cd.org/datasets/t2d) 
     
 #### 2.2 泛癌症分析  Pan-cancer analysis
 - [Pan-cancer analysis of whole genomes](https://www.nature.com/articles/s41586-020-1969-6) 
@@ -129,7 +132,6 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
 	- [HuRI: The Human Reference Protein Interactome Mapping Project](http://www.interactome-atlas.org/)
 	
-	
 
 #### 2.4 表观基因组学 Epigenomes
 - [Integrative analysis of 111 reference human epigenomes](https://www.nature.com/articles/nature14248) 
@@ -139,8 +141,23 @@ Dunham, I., Kundaje, A., Aldred, S. et al. Nature 489, 57–74 (2012).
 - [Integrative analysis of 10,000 epigenomic maps across 800 samples for regulatory genomics and disease dissection](https://www.biorxiv.org/content/10.1101/810291v2.full)
 Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 810291; doi: https://doi.org/10.1101/810291
 
+
+#### 2.5 Polygenic Risk Scores
+- [Towards clinical utility of polygenic risk scores](https://academic.oup.com/hmg/article/28/R2/R133/5540980) Samuel A Lambert, Gad Abraham, Michael Inouye, Human Molecular Genetics, Volume 28, Issue R2, 15 October 2019, Pages R133–R142, https://doi.org/10.1093/hmg/ddz187
+- [A machine-learning heuristic to improve gene score prediction of polygenic traits](https://www.nature.com/articles/s41598-017-13056-1) Paré, G., Mao, S. & Deng, W.Q.  Sci Rep 7, 12665 (2017). https://doi.org/10.1038/s41598-017-13056-1
+- [Polygenic risk scores outperform machine learning methods in predicting coronary artery disease status](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22279) Gola D, Erdmann J, Müller‐Myhsok B, et al. Genetic Epidemiology, 2020.
+- [Fine-mapping type 2 diabetes loci to single-variant resolution using high-density imputation and islet-specific epigenome maps](https://www.nature.com/articles/s41588-018-0241-6) Mahajan, A., Taliun, D., Thurner, M. et al.  Nat Genet 50, 1505–1513 (2018). https://doi.org/10.1038/s41588-018-0241-6
+- [Machine learning SNP based prediction for precision medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6445847/) Ho D S W, Schierding W, Wake M, et al. Frontiers in Genetics, 2019, 10.
+- [Analysis of polygenic risk score usage and performance in diverse human populations](https://www.nature.com/articles/s41467-019-11112-0) Duncan, L., Shen, H., Gelaye, B. et al.  Nat Commun 10, 3328 (2019). https://doi.org/10.1038/s41467-019-11112-0
+- [Polygenic and clinical risk scores and their impact on age at onset and prediction of cardiometabolic diseases and common cancers](https://www.nature.com/articles/s41591-020-0800-0) Mars, N., Koskela, J.T., Ripatti, P. et al.  Nat Med (2020). https://doi.org/10.1038/s41591-020-0800-0
+    ##### 2.5.1 Software
+    - [GraBLD: an R based software package that makes polygenic traits prediction using gradient boosted and LD adjusted gene score weights](https://github.com/GMELab/GraBLD)
+    
+
+
 #### 2.5 待分类
 - [The accessible chromatin landscape of the human genome](https://www.nature.com/articles/nature11232) Thurman, R., Rynes, E., Humbert, R. et al. Nature 489, 75–82 (2012). https://doi.org/10.1038/nature11232
+
 
 ## 3 医学 Medicine
 
