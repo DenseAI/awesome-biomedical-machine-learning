@@ -111,6 +111,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al. Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 - [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
 - [Reconstruction of Cell-type-Specific Interactomes at Single-Cell Resolution](https://www.sciencedirect.com/science/article/pii/S2405471219303837) Mohammadi S, Davila-Velderrain J, Kellis M. Cell Systems, 2019, 9(6): 559-568. e4.
+- [Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling](https://www.nature.com/articles/s41592-019-0529-1) Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (2019). https://doi.org/10.1038/s41592-019-0529-1
 	##### 2.3.1 Single-Cell Software
 	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
