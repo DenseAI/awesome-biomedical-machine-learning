@@ -113,6 +113,8 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
 - [Reconstruction of Cell-type-Specific Interactomes at Single-Cell Resolution](https://www.sciencedirect.com/science/article/pii/S2405471219303837) Mohammadi S, Davila-Velderrain J, Kellis M. Cell Systems, 2019, 9(6): 559-568. e4.
 - [Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling](https://www.nature.com/articles/s41592-019-0529-1) Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (2019). https://doi.org/10.1038/s41592-019-0529-1
+- [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) Wolf, F.A., Hamey, F.K., Plass, M. et al. Genome Biol 20, 59 (2019). https://doi.org/10.1186/s13059-019-1663-x
+- [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al.  Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 	##### 2.3.1 Single-Cell Software
 	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
@@ -131,6 +133,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 	- [singlecelldb: Deep learning approaches for single cell data](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 	- [scHCL: A tool defines cell types in human based on single-cell digital expression](https://github.com/ggjlab/scHCL)
 	- [SCINET: Single-Cell Imputation and NETwork inference](https://github.com/shmohammadi86/SCINET)
+	- [paga: Mapping out the coarse-grained connectivity structures of complex manifolds.](https://github.com/theislab/paga)
 	
 	##### 2.3.2 Single-Cell DataSet
 	- [CellMarker: a manually curated resource of cell markers in human and mouse](http://biocc.hrbmu.edu.cn/CellMarker/index.jsp)
@@ -161,6 +164,12 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
     - [AnnoPred: Genetic risk prediction integrating LD and functional annotations](https://github.com/yiminghu/AnnoPred)
     
 
+#### 2.6 Histopathology 组织病理学
+- [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) Coudray N, Ocampo P S, Sakellaropoulos T, et al. Nature medicine, 2018, 24(10): 1559-1567.
+
+    ##### 2.6.1 Software
+    - [DeepPATH: The DeepPATH framework gathers the codes that have been used to study the use of a deep learning architecture (inception v3 from Google) to classify Lung cancer images.](https://github.com/ncoudray/DeepPATH) 
+    - []
 
 #### 2.5 待分类
 - [The accessible chromatin landscape of the human genome](https://www.nature.com/articles/nature11232) Thurman, R., Rynes, E., Humbert, R. et al. Nature 489, 75–82 (2012). https://doi.org/10.1038/nature11232
