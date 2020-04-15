@@ -50,7 +50,7 @@ Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https:
 - [Analyses of non-coding somatic drivers in 2,658 cancer whole genomes](https://www.nature.com/articles/s41586-020-1965-x) Rheinbay, E., Nielsen, M.M., Abascal, F. et al. Nature 578, 102–111 (2020). https://doi.org/10.1038/s41586-020-1965-x
 - [Comprehensive molecular characterization of mitochondrial genomes in human cancers](https://www.nature.com/articles/s41588-019-0557-x) Yuan, Y., Ju, Y.S., Kim, Y. et al. Nat Genet 52, 342–352 (2020). https://doi.org/10.1038/s41588-019-0557-x
 - [Disruption of chromatin folding domains by somatic genomic rearrangements in human cancer](https://www.nature.com/articles/s41588-019-0564-y)Akdemir, K.C., Le, V.T., Chandran, S. et al.  Nat Genet 52, 294–305 (2020). https://doi.org/10.1038/s41588-019-0564-y
-- [A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns](https://www.nature.com/articles/s41467-019-13825-8) Jiao, W., Atwal, G., Polak, P. et al.  Nat Commun 11, 728 (2020). https://doi.org/10.1038/s41467-019-13825-8
+- [ *** A deep learning system accurately classifies primary and metastatic cancers using passenger mutation patterns](https://www.nature.com/articles/s41467-019-13825-8) Jiao, W., Atwal, G., Polak, P. et al.  Nat Commun 11, 728 (2020). https://doi.org/10.1038/s41467-019-13825-8
 - [Translating cancer genomics into precision medicine with artificial intelligence: applications, challenges and future perspectives](https://link.springer.com/article/10.1007/s00439-019-01970-5) Xu J, Yang P, Xue S, et al. Human genetics, 2019, 138(2): 109-124.
 - [Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden](https://link.springer.com/article/10.1186/s13073-017-0424-2)
 Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
@@ -85,11 +85,11 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [The Medical Genome Reference Bank contains whole genome and phenotype data of 2570 healthy elderly](https://www.nature.com/articles/s41467-019-14079-0) Pinese, M., Lacaze, P., Rath, E.M. et al.  Nat Commun 11, 435 (2020). https://doi.org/10.1038/s41467-019-14079-0
 
 #### 2.3 单细胞 Single-Cell
-- [RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
+- [ *** RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
 [PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq 这十年](https://cloud.tencent.com/developer/article/1483493)
-- [Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) Luecken M D, Theis F J. Molecular systems biology, 2019, 15(6). 
+- [ *** Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) Luecken M D, Theis F J. Molecular systems biology, 2019, 15(6). 
 中文：[重磅综述：三万字长文读懂单细胞RNA测序分析的最佳实践教程 （原理、代码和评述）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491322&idx=1&sn=0556e7e8723cac79cc32a2b99e7cadc6&chksm=ec0ddb70db7a5266a4826aa91f26e62c9b6c3fff6711ac646ef581511eaacb2a56df2f59d092&scene=21#wechat_redirect)
-- [Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
+- [ *** Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 - [Imputing Single-cell RNA-seq data by combining Graph Convolution and Autoencoder Neural Networks](https://www.biorxiv.org/content/10.1101/2020.02.05.935296v1) Jiahua Rao, Xiang Zhou, Yutong Lu, Huiying Zhao, Yuedong Yang
 bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
@@ -116,7 +116,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) Wolf, F.A., Hamey, F.K., Plass, M. et al. Genome Biol 20, 59 (2019). https://doi.org/10.1186/s13059-019-1663-x
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al.  Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 	##### 2.3.1 Single-Cell Software
-	- [DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
+	- [ *** DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
 	- [cellassign: Automated, probabilistic assignment of cell types in scRNA-seq data](https://github.com/Irrationone/cellassign)
 	- [scVI: scDeep generative modeling for single-cell omics data](https://github.com/YosefLab/scVI)
