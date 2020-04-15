@@ -54,7 +54,7 @@ Campbell, P.J., Getz, G., Korbel, J.O. et al. Nature 578, 82–93 (2020). https:
 - [Translating cancer genomics into precision medicine with artificial intelligence: applications, challenges and future perspectives](https://link.springer.com/article/10.1007/s00439-019-01970-5) Xu J, Yang P, Xue S, et al. Human genetics, 2019, 138(2): 109-124.
 - [Analysis of 100,000 human cancer genomes reveals the landscape of tumor mutational burden](https://link.springer.com/article/10.1186/s13073-017-0424-2)
 Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
-- [Whole-genome deep-learning analysis identifies contribution of noncoding mutations to autism risk.](https://www.nature.com/articles/s41588-019-0420-0) Zhou, J., Park, C.Y., Theesfeld, C.L. et al. Nat Genet 51, 973–980 (2019). https://doi.org/10.1038/s41588-019-0420-0
+- [Whole-genome deep-learning analysis identifies contribution of noncoding mutations to autism risk. ***](https://www.nature.com/articles/s41588-019-0420-0) Zhou, J., Park, C.Y., Theesfeld, C.L. et al. Nat Genet 51, 973–980 (2019). https://doi.org/10.1038/s41588-019-0420-0
     ##### 2.2.1 癌症预测 Cancer Prognosis prediction
     - [Circulating tumor DNA 5-hydroxymethylcytosine as a novel diagnostic biomarker for esophageal cancer](https://www.nature.com/articles/s41422-018-0014-x)
     Tian, X., Sun, B., Chen, C. et al. Cell Res 28, 597–600 (2018). https://doi.org/10.1038/s41422-018-0014-x
@@ -158,6 +158,7 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
 - [Analysis of polygenic risk score usage and performance in diverse human populations](https://www.nature.com/articles/s41467-019-11112-0) Duncan, L., Shen, H., Gelaye, B. et al.  Nat Commun 10, 3328 (2019). https://doi.org/10.1038/s41467-019-11112-0
 - [Polygenic and clinical risk scores and their impact on age at onset and prediction of cardiometabolic diseases and common cancers](https://www.nature.com/articles/s41591-020-0800-0) Mars, N., Koskela, J.T., Ripatti, P. et al.  Nat Med (2020). https://doi.org/10.1038/s41591-020-0800-0
 - [The personal and clinical utility of polygenic risk scores](https://www.nature.com/articles/s41576-018-0018-x) orkamani, A., Wineinger, N.E. & Topol, E.J. Nat Rev Genet 19, 581–590 (2018). https://doi.org/10.1038/s41576-018-0018-x
+- [Using the structure of genome data in the design of deep neural networks for predicting amyotrophic lateral sclerosis from genotype](https://academic.oup.com/bioinformatics/article/35/14/i538/5529261) Yin B, Balvert M, van der Spek R A A, et al. Bioinformatics, 2019, 35(14): i538-i547.
     ##### 2.5.1 Software
     - [GraBLD: an R based software package that makes polygenic traits prediction using gradient boosted and LD adjusted gene score weights](https://github.com/GMELab/GraBLD)
     - [ldpred: a Python based software package that adjusts GWAS summary statistics for the effects of linkage disequilibrium (LD)](https://github.com/bvilhjal/ldpred)
