@@ -72,6 +72,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Integrating multi-platform genomic datasets for kidney renal clear cell carcinoma subtyping using stacked denoising autoencoders](https://www.nature.com/articles/s41598-019-53048-x) Gu, T., Zhao, X. Sci Rep 9, 16668 (2019). https://doi.org/10.1038/s41598-019-53048-x
     - [OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine](https://www.nature.com/articles/s41598-020-62279-2)López-Cortés, A., Paz-y-Miño, C., Guerrero, S. et al.  Sci Rep 10, 5285 (2020). https://doi.org/10.1038/s41598-020-62279-2
     - [A community effort to create standards for evaluating tumor subclonal reconstruction](https://www.nature.com/articles/s41587-019-0364-z) Salcedo, A., Tarabichi, M., Espiritu, S.M.G. et al.  Nat Biotechnol 38, 97–107 (2020). https://doi.org/10.1038/s41587-019-0364-z
+    - [ *** Dissecting the single-cell transcriptome network underlying gastric premalignant lesions and early gastric cancer](https://www.sciencedirect.com/science/article/pii/S221112471930525X) Zhang P, Yang M, Zhang Y, et al.  Cell reports, 2019, 27(6): 1934-1947. e5.
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -116,6 +117,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) Wolf, F.A., Hamey, F.K., Plass, M. et al. Genome Biol 20, 59 (2019). https://doi.org/10.1186/s13059-019-1663-x
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al.  Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 - [A reference map of the human binary protein interactome](https://www.nature.com/articles/s41586-020-2188-x) Luck, K., Kim, D., Lambourne, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2188-x
+- [Single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection](http://journal.hep.com.cn/fmd/article/0000/2095-0217/26697) Zou X, Chen K, Zou J, et al.  Frontiers of medicine, 2020: 1-8.
 	##### 2.3.1 Single-Cell Software
 	- [ *** DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
