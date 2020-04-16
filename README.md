@@ -9,8 +9,11 @@
 	- [2.2 泛癌症分析  Pan-cancer analysis](https://github.com/DenseAI/awesome-medical-machine-learning#22-泛癌症分析--pan-cancer-analysis)
 	- [2.3 单细胞 Single-Cell](https://github.com/DenseAI/awesome-medical-machine-learning#23-单细胞-single-cell)
 	- [2.4 表观基因组学 Epigenomes](https://github.com/DenseAI/awesome-medical-machine-learning#24-表观基因组学-epigenomes)
-- [3 医学 Medicine](https://github.com/DenseAI/awesome-medical-machine-learning#3-医学-medicine)
-
+	- [2.5 多基因风险评分 Polygenic Risk Scores](https://github.com/DenseAI/awesome-biomedical-machine-learning#25-多基因风险评分-polygenic-risk-scores)
+- [3 生物医学 Biomedical Science](https://github.com/DenseAI/awesome-biomedical-machine-learning#3-生物医学-biomedical-science)
+    - [3.1 生物医学NLP BioNLP](https://github.com/DenseAI/awesome-biomedical-machine-learning#31-生物医学nlp-bionlp)
+    - []
+    - []
 ## 1. 生物 Biology
 
 ## 2. 基因 Genomics
@@ -181,14 +184,15 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
 ## 3 生物医学 Biomedical Science
 
 #### 3.1 生物医学NLP BioNLP
+
 #### 3.1.1 命名实体识别竞赛 Named Entity Recognition Competition
 - [CCKS 2017 电子病历命名实体识别](https://biendata.com/competition/CCKS2017_2/)
 - [CCKS 2018 面向中文电子病历的命名实体识别 ](https://biendata.com/competition/CCKS2018_1/)
 
-#### 3.3 Histopathology 组织病理学
+#### 3.2 Histopathology 组织病理学
 - [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) Coudray N, Ocampo P S, Sakellaropoulos T, et al. Nature medicine, 2018, 24(10): 1559-1567.
     ##### 3.3.1 Software
     - [DeepPATH: The DeepPATH framework gathers the codes that have been used to study the use of a deep learning architecture (inception v3 from Google) to classify Lung cancer images.](https://github.com/ncoudray/DeepPATH) 
     
-#### 3.2 临床决策辅助系统 Clinical Decision Support System
+#### 3.3 临床决策辅助系统 Clinical Decision Support System
 - [Development and application of a machine learning approach to assess short-term mortality risk among patients with cancer starting chemotherapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324307) Elfiky A A, Pany M J, Parikh R B, et al. JAMA network open, 2018, 1(3): e180926-e180926.
