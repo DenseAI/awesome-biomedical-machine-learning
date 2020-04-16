@@ -156,7 +156,7 @@ Dunham, I., Kundaje, A., Aldred, S. et al. Nature 489, 57–74 (2012).
 Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 810291; doi: https://doi.org/10.1101/810291
 
 
-#### 2.5 Polygenic Risk Scores
+#### 2.5 多基因风险评分 Polygenic Risk Scores
 - [Towards clinical utility of polygenic risk scores](https://academic.oup.com/hmg/article/28/R2/R133/5540980) Samuel A Lambert, Gad Abraham, Michael Inouye, Human Molecular Genetics, Volume 28, Issue R2, 15 October 2019, Pages R133–R142, https://doi.org/10.1093/hmg/ddz187
 - [A machine-learning heuristic to improve gene score prediction of polygenic traits](https://www.nature.com/articles/s41598-017-13056-1) Paré, G., Mao, S. & Deng, W.Q.  Sci Rep 7, 12665 (2017). https://doi.org/10.1038/s41598-017-13056-1
 - [Polygenic risk scores outperform machine learning methods in predicting coronary artery disease status](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22279) Gola D, Erdmann J, Müller‐Myhsok B, et al. Genetic Epidemiology, 2020.
@@ -172,26 +172,23 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
     - [AnnoPred: Genetic risk prediction integrating LD and functional annotations](https://github.com/yiminghu/AnnoPred)
     
 
-#### 2.6 Histopathology 组织病理学
-- [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) Coudray N, Ocampo P S, Sakellaropoulos T, et al. Nature medicine, 2018, 24(10): 1559-1567.
 
-    ##### 2.6.1 Software
-    - [DeepPATH: The DeepPATH framework gathers the codes that have been used to study the use of a deep learning architecture (inception v3 from Google) to classify Lung cancer images.](https://github.com/ncoudray/DeepPATH) 
-    - []
 
-#### 2.5 待分类
+#### 2.x 待分类
 - [The accessible chromatin landscape of the human genome](https://www.nature.com/articles/nature11232) Thurman, R., Rynes, E., Humbert, R. et al. Nature 489, 75–82 (2012). https://doi.org/10.1038/nature11232
 
 
-## 3 医学 Medicine
+## 3 生物医学 Biomedical Science
 
-#### 3.1 命名实体识别 Named entity recognition
+#### 3.1 生物医学NLP BioNLP
 #### 3.1.1 命名实体识别竞赛 Named Entity Recognition Competition
 - [CCKS 2017 电子病历命名实体识别](https://biendata.com/competition/CCKS2017_2/)
 - [CCKS 2018 面向中文电子病历的命名实体识别 ](https://biendata.com/competition/CCKS2018_1/)
 
-
+#### 3.3 Histopathology 组织病理学
+- [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) Coudray N, Ocampo P S, Sakellaropoulos T, et al. Nature medicine, 2018, 24(10): 1559-1567.
+    ##### 3.3.1 Software
+    - [DeepPATH: The DeepPATH framework gathers the codes that have been used to study the use of a deep learning architecture (inception v3 from Google) to classify Lung cancer images.](https://github.com/ncoudray/DeepPATH) 
+    
 #### 3.2 临床决策辅助系统 Clinical Decision Support System
 - [Development and application of a machine learning approach to assess short-term mortality risk among patients with cancer starting chemotherapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324307) Elfiky A A, Pany M J, Parikh R B, et al. JAMA network open, 2018, 1(3): e180926-e180926.
-
-
