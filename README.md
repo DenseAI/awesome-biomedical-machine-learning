@@ -37,11 +37,14 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
 - [Learning causality in genomics](https://ypark.github.io/_docs/research_genomics_web.html)
 - [DANN: a deep learning approach for annotating the pathogenicity of genetic variants](https://academic.oup.com/bioinformatics/article/31/5/761/2748191) Quang D, Chen Y, Xie X. Bioinformatics, 2015, 31(5): 761-763.
 - [ *** A general framework for estimating the relative pathogenicity of human genetic variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3992975) Kircher, M., Witten, D., Jain, P. et al. Nat Genet 46, 310–315 (2014). https://doi.org/10.1038/ng.2892
+- [ *** CADD: predicting the deleteriousness of variants throughout the human genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323892/) Rentzsch P, Witten D, Cooper G M, et al. Nucleic acids research, 2019, 47(D1): D886-D894.
+- [ *** Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning](https://www.nature.com/articles/nbt.3300/) Alipanahi, B., Delong, A., Weirauch, M. et al. Nat Biotechnol 33, 831–838 (2015). https://doi.org/10.1038/nbt.3300
     ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
     - [Graph attention networks](https://github.com/PetarV-/GAT) Veličković P, Cucurull G, Casanova A, et al. . arXiv preprint arXiv:1710.10903, 2017.
     - [BioBombe: Sequentially compressed gene expression features enhances biological signatures](https://github.com/greenelab/BioBombe)
     - [DANN](https://cbcl.ics.uci.edu/public_data/DANN/)
+    - [DeepBind](http://tools.genes.toronto.edu/deepbind/)
     
     ##### 2.1.2 Interpretation of Model Predictions
 	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
