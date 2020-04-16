@@ -9,7 +9,6 @@
 	- [2.2 泛癌症分析  Pan-cancer analysis](https://github.com/DenseAI/awesome-medical-machine-learning#22-泛癌症分析--pan-cancer-analysis)
 	- [2.3 单细胞 Single-Cell](https://github.com/DenseAI/awesome-medical-machine-learning#23-单细胞-single-cell)
 	- [2.4 表观基因组学 Epigenomes](https://github.com/DenseAI/awesome-medical-machine-learning#24-表观基因组学-epigenomes)
-	
 - [3 医学 Medicine](https://github.com/DenseAI/awesome-medical-machine-learning#3-医学-medicine)
 
 ## 1. 生物 Biology
@@ -28,10 +27,13 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434) Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596) Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu
 - [Learning causality in genomics](https://ypark.github.io/_docs/research_genomics_web.html)
+- [DANN: a deep learning approach for annotating the pathogenicity of genetic variants](https://academic.oup.com/bioinformatics/article/31/5/761/2748191) Quang D, Chen Y, Xie X. Bioinformatics, 2015, 31(5): 761-763.
+- [ *** A general framework for estimating the relative pathogenicity of human genetic variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3992975) Kircher, M., Witten, D., Jain, P. et al. Nat Genet 46, 310–315 (2014). https://doi.org/10.1038/ng.2892
     ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
     - [Graph attention networks](https://github.com/PetarV-/GAT) Veličković P, Cucurull G, Casanova A, et al. . arXiv preprint arXiv:1710.10903, 2017.
     - [BioBombe: Sequentially compressed gene expression features enhances biological signatures](https://github.com/greenelab/BioBombe)
+    - [DANN](https://cbcl.ics.uci.edu/public_data/DANN/)
     
     ##### 2.1.2 Interpretation of Model Predictions
 	- [A unified approach to interpreting model predictions](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) Lundberg S M, Lee S I. Advances in neural information processing systems. 2017: 4765-4774.
@@ -118,6 +120,7 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al.  Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
 - [A reference map of the human binary protein interactome](https://www.nature.com/articles/s41586-020-2188-x) Luck, K., Kim, D., Lambourne, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2188-x
 - [ *** Single-cell RNA-seq data analysis on the receptor ACE2 expression reveals the potential risk of different human organs vulnerable to 2019-nCoV infection](http://journal.hep.com.cn/fmd/article/0000/2095-0217/26697) Zou X, Chen K, Zou J, et al.  Frontiers of medicine, 2020: 1-8.
+- [Comprehensive integration of single-cell data](https://www.cell.com/cell/fulltext/S0092-8674(19)30559-8) Stuart T, Butler A, Hoffman P, et al.  Cell, 2019, 177(7): 1888-1902. e21.
 	##### 2.3.1 Single-Cell Software
 	- [ *** DCA: Deep count autoencoder for denoising scRNA-seq data](https://github.com/theislab/dca)
 	- [scDeepCluster for Single Cell RNA-seq data](https://github.com/ttgump/scDeepCluster) 
@@ -185,5 +188,9 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
 #### 3.1.1 命名实体识别竞赛 Named Entity Recognition Competition
 - [CCKS 2017 电子病历命名实体识别](https://biendata.com/competition/CCKS2017_2/)
 - [CCKS 2018 面向中文电子病历的命名实体识别 ](https://biendata.com/competition/CCKS2018_1/)
+
+
+#### 3.2 临床决策辅助系统 Clinical Decision Support System
+- [Development and application of a machine learning approach to assess short-term mortality risk among patients with cancer starting chemotherapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324307) Elfiky A A, Pany M J, Parikh R B, et al. JAMA network open, 2018, 1(3): e180926-e180926.
 
 
