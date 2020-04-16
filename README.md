@@ -18,6 +18,7 @@
 - [Helmholtz Zentrum München, German Research Center for Environmental Health, Theis lab](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/publications/index.html)
 - [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) Eraslan, G., Avsec, Ž., Gagneur, J. et al. Nat Rev Genet 20, 389–403 (2019). https://doi.org/10.1038/s41576-019-0122-6
 - [Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
+- [Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology](https://www.nature.com/articles/gim201530?ux=07df2189-4e01-4c08-8ef3-5619cff0ca61&ux2=3739b439-66b5-4bf5-921e-0916eef236a7&ux3=&uxconf=Y) Richards, S., Aziz, N., Bale, S. et al. Genet Med 17, 405–423 (2015). https://doi.org/10.1038/gim.2015.30
 
 #### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
@@ -93,6 +94,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
 - [ *** Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) Luecken M D, Theis F J. Molecular systems biology, 2019, 15(6). 
 中文：[重磅综述：三万字长文读懂单细胞RNA测序分析的最佳实践教程 （原理、代码和评述）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491322&idx=1&sn=0556e7e8723cac79cc32a2b99e7cadc6&chksm=ec0ddb70db7a5266a4826aa91f26e62c9b6c3fff6711ac646ef581511eaacb2a56df2f59d092&scene=21#wechat_redirect)
 - [ *** Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
+- [ *** Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
 - [Clustering single-cell RNA-seq data with a model-based deep learning approach](https://www.nature.com/articles/s42256-019-0037-0) Tian, T., Wan, J., Song, Q. et al. Nat Mach Intell 1, 191–198 (2019). https://doi.org/10.1038/s42256-019-0037-0
 - [Imputing Single-cell RNA-seq data by combining Graph Convolution and Autoencoder Neural Networks](https://www.biorxiv.org/content/10.1101/2020.02.05.935296v1) Jiahua Rao, Xiang Zhou, Yutong Lu, Huiying Zhao, Yuedong Yang
 bioRxiv 2020.02.05.935296; doi: https://doi.org/10.1101/2020.02.05.935296
@@ -113,7 +115,6 @@ github: [scRNAseq_Benchmark](https://github.com/tabdelaal/scRNAseq_Benchmark)
 - [Tools for the analysis of high-dimensional single-cell RNA sequencing data. Nat Rev Nephrol (2020)](https://www.nature.com/articles/s41581-020-0262-0) Wu, Y., Zhang, K. https://doi.org/10.1038/s41581-020-0262-0
 - [Using transfer learning from prior reference knowledge to improve the clustering of single-cell RNA-Seq data](https://www.nature.com/articles/s41598-019-56911-z) Mieth, B., Hockley, J.R.F., Görnitz, N. et al.  Sci Rep 9, 20353 (2019). https://doi.org/10.1038/s41598-019-56911-z
 - [Realistic in silico generation and augmentation of single-cell RNA-seq data using generative adversarial networks](https://www.nature.com/articles/s41467-019-14018-z) Marouf, M., Machart, P., Bansal, V. et al. Nat Commun 11, 166 (2020). https://doi.org/10.1038/s41467-019-14018-z
-- [Construction of a human cell landscape at single-cell level](https://www.nature.com/articles/s41586-020-2157-4) Han, X., Zhou, Z., Fei, L. et al. Nature (2020). https://doi.org/10.1038/s41586-020-2157-4
 - [Reconstruction of Cell-type-Specific Interactomes at Single-Cell Resolution](https://www.sciencedirect.com/science/article/pii/S2405471219303837) Mohammadi S, Davila-Velderrain J, Kellis M. Cell Systems, 2019, 9(6): 559-568. e4.
 - [Probabilistic cell-type assignment of single-cell RNA-seq for tumor microenvironment profiling](https://www.nature.com/articles/s41592-019-0529-1) Zhang, A.W., O’Flanagan, C., Chavez, E.A. et al. Nat Methods 16, 1007–1015 (2019). https://doi.org/10.1038/s41592-019-0529-1
 - [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) Wolf, F.A., Hamey, F.K., Plass, M. et al. Genome Biol 20, 59 (2019). https://doi.org/10.1186/s13059-019-1663-x
