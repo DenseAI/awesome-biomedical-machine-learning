@@ -1,7 +1,10 @@
 
-# awesome-medical-machine-learning
+# awesome-biomedical-machine-learning
 
 收集生物、基因、医学人工智能相关资料
+
+Collect biological, genetic, medical artificial intelligence related materials
+
 ## 目录
 - [1. 生物 Biology](https://github.com/DenseAI/awesome-medical-machine-learning#1-生物-biology)
 - [2. 基因 Genomics](https://github.com/DenseAI/awesome-medical-machine-learning#2-基因-genomics)
@@ -12,8 +15,9 @@
 	- [2.5 多基因风险评分 Polygenic Risk Scores](https://github.com/DenseAI/awesome-biomedical-machine-learning#25-多基因风险评分-polygenic-risk-scores)
 - [3 生物医学 Biomedical Science](https://github.com/DenseAI/awesome-biomedical-machine-learning#3-生物医学-biomedical-science)
     - [3.1 生物医学NLP BioNLP](https://github.com/DenseAI/awesome-biomedical-machine-learning#31-生物医学nlp-bionlp)
-    - []
-    - []
+    - [3.2 Histopathology 组织病理学](https://github.com/DenseAI/awesome-biomedical-machine-learning#32-histopathology-组织病理学)
+    - [3.3 临床决策辅助系统 Clinical Decision Support System](https://github.com/DenseAI/awesome-biomedical-machine-learning#33-临床决策辅助系统-clinical-decision-support-system)
+
 ## 1. 生物 Biology
 
 ## 2. 基因 Genomics
