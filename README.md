@@ -88,6 +88,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [ *** Dissecting the single-cell transcriptome network underlying gastric premalignant lesions and early gastric cancer](https://www.sciencedirect.com/science/article/pii/S221112471930525X) Zhang P, Yang M, Zhang Y, et al.  Cell reports, 2019, 27(6): 1934-1947. e5.
     - [ *** Deep learning based tumor type classification using gene expression data[C]](https://www.biorxiv.org/content/10.1101/364323v1) Lyu B, Haque A. Deep learning based tumor type classification using gene expression data[C]//Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
     - [Deep learning–based multi-omics integration robustly predicts survival in liver cancer[J].](https://clincancerres.aacrjournals.org/content/24/6/1248) Chaudhary K, Poirion O B, Lu L, et al.  Clinical Cancer Research, 2018, 24(6): 1248-1259.
+    - [] Krasnov G S, Dmitriev A A, Melnikova N V, et al. CrossHub: a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms[J]. Nucleic acids research, 2016, 44(7): e62-e62.
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -104,7 +105,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
 
 #### 2.3 单细胞 Single-Cell
 - [ *** RNA sequencing: the teenage years](https://www.nature.com/articles/s41576-019-0150-2) Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics, 2019, 20(11): 631-656. 
-[PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [RNA-seq 这十年](https://cloud.tencent.com/developer/article/1483493)
+[PDF](https://www.uab.edu/hcgs/images/PDF_documents/RNA_sequencing-the_teenage_years_Nat_Rev_Genetics.pdf)   中文: [笔记1](https://cloud.tencent.com/developer/article/1483493) [笔记2](http://rvdsd.top/2019/08/05/Literature/%E6%96%87%E7%8C%AE%E7%AC%94%E8%AE%B0-RNA%20sequencing%20the%20teenage%20years/)
 - [ *** Current best practices in single‐cell RNA‐seq analysis: a tutorial](https://www.embopress.org/doi/10.15252/msb.20188746) Luecken M D, Theis F J. Molecular systems biology, 2019, 15(6). 
 中文：[重磅综述：三万字长文读懂单细胞RNA测序分析的最佳实践教程 （原理、代码和评述）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491322&idx=1&sn=0556e7e8723cac79cc32a2b99e7cadc6&chksm=ec0ddb70db7a5266a4826aa91f26e62c9b6c3fff6711ac646ef581511eaacb2a56df2f59d092&scene=21#wechat_redirect)
 - [ *** Single-cell RNA-seq denoising using a deep count autoencoder](https://www.nature.com/articles/s41467-018-07931-2) Eraslan, G., Simon, L.M., Mircea, M. et al. Nat Commun 10, 390 (2019). https://doi.org/10.1038/s41467-018-07931-2
