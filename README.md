@@ -86,6 +86,8 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [OncoOmics approaches to reveal essential genes in breast cancer: a panoramic view from pathogenesis to precision medicine](https://www.nature.com/articles/s41598-020-62279-2)López-Cortés, A., Paz-y-Miño, C., Guerrero, S. et al.  Sci Rep 10, 5285 (2020). https://doi.org/10.1038/s41598-020-62279-2
     - [A community effort to create standards for evaluating tumor subclonal reconstruction](https://www.nature.com/articles/s41587-019-0364-z) Salcedo, A., Tarabichi, M., Espiritu, S.M.G. et al.  Nat Biotechnol 38, 97–107 (2020). https://doi.org/10.1038/s41587-019-0364-z
     - [ *** Dissecting the single-cell transcriptome network underlying gastric premalignant lesions and early gastric cancer](https://www.sciencedirect.com/science/article/pii/S221112471930525X) Zhang P, Yang M, Zhang Y, et al.  Cell reports, 2019, 27(6): 1934-1947. e5.
+    - [ *** Deep learning based tumor type classification using gene expression data[C]](https://www.biorxiv.org/content/10.1101/364323v1) Lyu B, Haque A. Deep learning based tumor type classification using gene expression data[C]//Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
+    - [Deep learning–based multi-omics integration robustly predicts survival in liver cancer[J].](https://clincancerres.aacrjournals.org/content/24/6/1248) Chaudhary K, Poirion O B, Lu L, et al.  Clinical Cancer Research, 2018, 24(6): 1248-1259.
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -93,6 +95,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [overall_survival_nsclc: bimodal DNN for NSCLC patient overall survival prediction](https://github.com/idssplab/overall_survival_nsclc) 
     - [DeepSVR](https://github.com/griffithlab/DeepSVR)
     - [cancer_subtyping](https://github.com/tjgu/cancer_subtyping)
+    - [ *** DL-based-Tumor-Classification: Deep Learning Based Tumor Type Classification Using Gene Expression Data](https://github.com/HHHit/DL-based-Tumor-Classification)
     
     ##### 2.2.3 Data
     - [CancerSEA: a cancer single-cell state atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324047/) Yuan H, Yan M, Zhang G, et al.  Nucleic acids research, 2019, 47(D1): D900-D908.
