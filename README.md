@@ -203,6 +203,7 @@ Carles B. Adsera, Yongjin P. Park, Wouter Meuleman, Manolis Kellis. bioRxiv 8102
 
 #### 3.2 组织病理学 Histopathology 
 - [Classification and mutation prediction from non–small cell lung cancer histopathology images using deep learning](https://www.nature.com/articles/s41591-018-0177-5) Coudray N, Ocampo P S, Sakellaropoulos T, et al. Nature medicine, 2018, 24(10): 1559-1567.
+- [Deep learning-based survival prediction for multiple cancer types using histopathology images[J]. ](https://www.pnas.org/content/115/13/E2970) Wulczyn E, Steiner D F, Xu Z, et al. arXiv preprint arXiv:1912.07354, 2019.
     ##### 3.3.1 Software
     - [DeepPATH: The DeepPATH framework gathers the codes that have been used to study the use of a deep learning architecture (inception v3 from Google) to classify Lung cancer images.](https://github.com/ncoudray/DeepPATH) 
     
