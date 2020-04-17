@@ -88,7 +88,8 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [ *** Dissecting the single-cell transcriptome network underlying gastric premalignant lesions and early gastric cancer](https://www.sciencedirect.com/science/article/pii/S221112471930525X) Zhang P, Yang M, Zhang Y, et al.  Cell reports, 2019, 27(6): 1934-1947. e5.
     - [ *** Deep learning based tumor type classification using gene expression data[C]](https://www.biorxiv.org/content/10.1101/364323v1) Lyu B, Haque A. Deep learning based tumor type classification using gene expression data[C]//Proceedings of the 2018 ACM international conference on bioinformatics, computational biology, and health informatics. 2018: 89-96.
     - [Deep learning–based multi-omics integration robustly predicts survival in liver cancer[J].](https://clincancerres.aacrjournals.org/content/24/6/1248) Chaudhary K, Poirion O B, Lu L, et al.  Clinical Cancer Research, 2018, 24(6): 1248-1259.
-    - [] Krasnov G S, Dmitriev A A, Melnikova N V, et al. CrossHub: a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms[J]. Nucleic acids research, 2016, 44(7): e62-e62.
+    - [CrossHub: a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms[J]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838350/) Krasnov G S, Dmitriev A A, Melnikova N V, et al.  Nucleic acids research, 2016, 44(7): e62-e62.
+    - [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://www.nature.com/articles/s41598-017-11817-6) Yousefi, S., Amrollahi, F., Amgad, M. et al. Sci Rep 7, 11707 (2017). https://doi.org/10.1038/s41598-017-11817-6
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -97,6 +98,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [DeepSVR](https://github.com/griffithlab/DeepSVR)
     - [cancer_subtyping](https://github.com/tjgu/cancer_subtyping)
     - [ *** DL-based-Tumor-Classification: Deep Learning Based Tumor Type Classification Using Gene Expression Data](https://github.com/HHHit/DL-based-Tumor-Classification)
+    - [SurvivalNet: SurvivalNet is a package for building survival analysis models using deep learning. ](https://github.com/CancerDataScience/SurvivalNet)
     
     ##### 2.2.3 Data
     - [CancerSEA: a cancer single-cell state atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324047/) Yuan H, Yan M, Zhang G, et al.  Nucleic acids research, 2019, 47(D1): D900-D908.
