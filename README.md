@@ -90,8 +90,9 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [Deep learning–based multi-omics integration robustly predicts survival in liver cancer[J].](https://clincancerres.aacrjournals.org/content/24/6/1248) Chaudhary K, Poirion O B, Lu L, et al.  Clinical Cancer Research, 2018, 24(6): 1248-1259.
     - [CrossHub: a tool for multi-way analysis of The Cancer Genome Atlas (TCGA) in the context of gene expression regulation mechanisms[J]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838350/) Krasnov G S, Dmitriev A A, Melnikova N V, et al.  Nucleic acids research, 2016, 44(7): e62-e62.
     - [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://www.nature.com/articles/s41598-017-11817-6) Yousefi, S., Amrollahi, F., Amgad, M. et al. Sci Rep 7, 11707 (2017). https://doi.org/10.1038/s41598-017-11817-6
-    - [DeepCC: a novel deep learning-based framework for cancer molecular subtype classification. ](https://www.nature.com/articles/s41389-019-0157-8) Gao, F., Wang, W., Tan, M. et al. Oncogenesis 8, 44 (2019). https://doi.org/10.1038/s41389-019-0157-8
-    - [CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of a random forest and a deep neural network](https://www.nature.com/articles/s41598-019-53034-3) Lee, K., Jeong, H., Lee, S. et al. Sci Rep 9, 16927 (2019).
+    - [ *** DeepCC: a novel deep learning-based framework for cancer molecular subtype classification. ](https://www.nature.com/articles/s41389-019-0157-8) Gao, F., Wang, W., Tan, M. et al. Oncogenesis 8, 44 (2019). https://doi.org/10.1038/s41389-019-0157-8
+    - [ *** CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of a random forest and a deep neural network](https://www.nature.com/articles/s41598-019-53034-3) Lee, K., Jeong, H., Lee, S. et al. Sci Rep 9, 16927 (2019).
+    - [Machine learning workflows to estimate class probabilities for precision cancer diagnostics on DNA methylation microarray data.](https://www.nature.com/articles/s41596-019-0251-6) Maros, M.E., Capper, D., Jones, D.T.W. et al. Nat Protoc 15, 479–512 (2020). https://doi.org/10.1038/s41596-019-0251-6
     ##### 2.2.2 Software 
     - [tcga: Microbial analysis in TCGA data](https://github.com/biocore/tcga)
     - [cancer-data: TCGA data acquisition and processing for Project Cognoma](https://github.com/cognoma/cancer-data)
@@ -102,7 +103,7 @@ Chalmers, Z.R., Connelly, C.F., Fabrizio, D. et al. Genome Med 9, 34 (2017).
     - [ *** DL-based-Tumor-Classification: Deep Learning Based Tumor Type Classification Using Gene Expression Data](https://github.com/HHHit/DL-based-Tumor-Classification)
     - [SurvivalNet: SurvivalNet is a package for building survival analysis models using deep learning. ](https://github.com/CancerDataScience/SurvivalNet)
     - [DeepCC: a deep learning-based framework for cancer classification](https://github.com/CityUHK-CompBio/DeepCC) 
-    - [CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of random forests and a deep neural network](https://github.com/leekanggeun/CPEM)
+    - [ *** CPEM: Accurate cancer type classification based on somatic alterations using an ensemble of random forests and a deep neural network](https://github.com/leekanggeun/CPEM)
     
     ##### 2.2.3 Data
     - [CancerSEA: a cancer single-cell state atlas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6324047/) Yuan H, Yan M, Zhang G, et al.  Nucleic acids research, 2019, 47(D1): D900-D908.
