@@ -40,6 +40,7 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
 - [ *** A general framework for estimating the relative pathogenicity of human genetic variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3992975) Kircher, M., Witten, D., Jain, P. et al. Nat Genet 46, 310–315 (2014). https://doi.org/10.1038/ng.2892
 - [ *** CADD: predicting the deleteriousness of variants throughout the human genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323892/) Rentzsch P, Witten D, Cooper G M, et al. Nucleic acids research, 2019, 47(D1): D886-D894.
 - [ *** Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning](https://www.nature.com/articles/nbt.3300/) Alipanahi, B., Delong, A., Weirauch, M. et al. Nat Biotechnol 33, 831–838 (2015). https://doi.org/10.1038/nbt.3300
+- [Gene co-expression analysis for functional classification and gene–disease predictions[J]. ](https://academic.oup.com/bib/article/19/4/575/2888441) van Dam S, Vosa U, van der Graaf A, et al. Briefings in bioinformatics, 2018, 19(4): 575-592.
     ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
     - [Graph attention networks](https://github.com/PetarV-/GAT) Veličković P, Cucurull G, Casanova A, et al. . arXiv preprint arXiv:1710.10903, 2017.
