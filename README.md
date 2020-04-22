@@ -23,6 +23,7 @@ Collect biological, genetic, medical artificial intelligence related materials
 ## 2. 基因 Genomics
 
 - [Helmholtz Zentrum München, German Research Center for Environmental Health, Theis lab](https://www.helmholtz-muenchen.de/icb/research/groups/theis-lab/publications/index.html)
+- [Kellis Lab at MIT Computer Science and Broad Institute](http://compbio.mit.edu/)
 - [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) Eraslan, G., Avsec, Ž., Gagneur, J. et al. Nat Rev Genet 20, 389–403 (2019). https://doi.org/10.1038/s41576-019-0122-6
 - [Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
 - [Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology](https://www.nature.com/articles/gim201530?ux=07df2189-4e01-4c08-8ef3-5619cff0ca61&ux2=3739b439-66b5-4bf5-921e-0916eef236a7&ux3=&uxconf=Y) Richards, S., Aziz, N., Bale, S. et al. Genet Med 17, 405–423 (2015). https://doi.org/10.1038/gim.2015.30
