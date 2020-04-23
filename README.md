@@ -41,6 +41,7 @@ Zhou J, Theesfeld C L, Yao K, et al. Nature genetics, 2018, 50(8): 1171-1179.
 - [ *** CADD: predicting the deleteriousness of variants throughout the human genome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323892/) Rentzsch P, Witten D, Cooper G M, et al. Nucleic acids research, 2019, 47(D1): D886-D894.
 - [ *** Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning](https://www.nature.com/articles/nbt.3300/) Alipanahi, B., Delong, A., Weirauch, M. et al. Nat Biotechnol 33, 831–838 (2015). https://doi.org/10.1038/nbt.3300
 - [Gene co-expression analysis for functional classification and gene–disease predictions[J]. ](https://academic.oup.com/bib/article/19/4/575/2888441) van Dam S, Vosa U, van der Graaf A, et al. Briefings in bioinformatics, 2018, 19(4): 575-592.
+- [ *** FTO obesity variant circuitry and adipocyte browning in humans. ](https://www.nejm.org/doi/full/10.1056/nejmoa1502214) Claussnitzer, Melina, et al. New England Journal of Medicine 373.10 (2015): 895-907.
     ##### 2.1.1 Software
     - [DeepWAS: Directly integrating regulatory information into GWAS using machine learning](https://github.com/cellmapslab/DeepWAS)
     - [Graph attention networks](https://github.com/PetarV-/GAT) Veličković P, Cucurull G, Casanova A, et al. . arXiv preprint arXiv:1710.10903, 2017.
