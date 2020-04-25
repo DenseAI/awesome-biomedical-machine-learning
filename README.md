@@ -27,7 +27,7 @@ Collect biological, genetic, medical artificial intelligence related materials
 - [Deep learning: new computational modelling techniques for genomics](https://www.nature.com/articles/s41576-019-0122-6) Eraslan, G., Avsec, Ž., Gagneur, J. et al. Nat Rev Genet 20, 389–403 (2019). https://doi.org/10.1038/s41576-019-0122-6
 - [Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/)
 - [Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology](https://www.nature.com/articles/gim201530?ux=07df2189-4e01-4c08-8ef3-5619cff0ca61&ux2=3739b439-66b5-4bf5-921e-0916eef236a7&ux3=&uxconf=Y) Richards, S., Aziz, N., Bale, S. et al. Genet Med 17, 405–423 (2015). https://doi.org/10.1038/gim.2015.30
-
+- [The Biology of Human Diseases, as Revealed Through Genomics](https://www.biomedcentral.com/collections/diseasegenomics?utm_campaign=BMC30527A&utm_medium=BMCemail&utm_source=Teradata)
 #### 2.1 基因序列分析与预测 Gene sequence analysis and prediction
 - [ *** Predicting effects of noncoding variants with deep learning–based sequence model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768299) Zhou J, Troyanskaya O G. Nature methods, 2015, 12(10): 931-934.
 - [ *** Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6094955/)
